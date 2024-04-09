@@ -21,8 +21,10 @@ p{
 }
 .font02{
     font-weight: 400;
+    text-decoration: 1px wavy red;
 }
 .font03{
     font-weight: 700;
+    text-shadow: 0px 0px 10px navy;
 }
 
