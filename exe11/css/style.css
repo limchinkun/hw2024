@@ -1,0 +1,25 @@
+.zcool-kuaile-regular {
+    font-family: "ZCOOL KuaiLe", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: brown;
+}
+#text_content{
+    text-align: center;
+    font-size: medium;
+}
+
+p{
+    font-size: 32px;
+}
+.font01{
+    font-weight: 100;
+}
+.font02{
+    font-weight: 400;
+}
+.font03{
+    font-weight: 700;
+}
+
